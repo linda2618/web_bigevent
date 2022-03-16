@@ -8,7 +8,7 @@ body {
   background-size: cover;
 }
 
-.loginBigBox {
+.loginAndRegBox {
   width: 400px;
   height: 310px;
   background-color: #fff;
@@ -18,8 +18,8 @@ body {
   transform: translate(-50%,-50%);
 }
 
-.login_title {
-  width: 400px;
+.title-box {
+  /* width: 400px; */
   height: 60px;
   background: url(/assets/images/login_title.png) no-repeat center;
 }
